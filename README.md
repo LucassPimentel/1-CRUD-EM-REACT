@@ -15,6 +15,6 @@
 
 ## Como Usar:
 - Para testar o projeto é necessário instalar as dependências
-- Escreva no terminal: ~~~ npm start ~~~~ Para iniciar abrir o projeto.
-- Em seguida escreva: ~~~ npm run backend db.json ~~~~ Para iniciar o "backend" do projeto.
+- Escreva no terminal: ~~~ npm start ~~~ Para iniciar abrir o projeto.
+- Em seguida escreva: ~~~ npm run backend db.json ~~~ Para iniciar o "backend" do projeto.
 - Agora só testa-lo!
